@@ -1,0 +1,8 @@
+﻿  checkers.cpp
+C:\Users\user\Desktop\checkers\checkers\checkers\checkers.cpp(343,56): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\checkers\checkers\checkers\checkers.cpp(355,56): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\checkers\checkers\checkers\checkers.cpp(367,56): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\checkers\checkers\checkers\checkers.cpp(379,56): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\checkers\checkers\checkers\checkers.cpp(391,56): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\checkers\checkers\checkers\checkers.cpp(403,56): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\checkers\checkers\checkers\checkers.cpp(36): fatal error C1075: '{': 找不到任何相符的語彙基元
